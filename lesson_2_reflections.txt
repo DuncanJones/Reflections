@@ -21,3 +21,6 @@ They also show which earlier commits are reachable from certain points
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is to take all the changes made in each branch from their mutual starting point
 We represent it in a diagram to show the two branches joining together
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git does most of the work and only requires intervention when it is not clear
