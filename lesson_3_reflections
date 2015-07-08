@@ -20,3 +20,7 @@ I would share files by email or through a central network
 It would be simpler to understand what was going on
 It would be harder to look back at what happened
 It would be harder to merge to seperate changes
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You make changes in a seperate branch if you are working on something away from the core project
+It is also needed to create a pull request when colaberating with others
