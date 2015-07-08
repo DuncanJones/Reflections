@@ -14,3 +14,9 @@ Branch creates a new branch in the repository already on my machine / the GitHub
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It allows you to identify changes made locally and those made on the remote copy after the local copy was created
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would share files by email or through a central network
+It would be simpler to understand what was going on
+It would be harder to look back at what happened
+It would be harder to merge to seperate changes
